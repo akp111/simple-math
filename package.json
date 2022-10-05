@@ -1,5 +1,6 @@
 {
-  "name": "simple-math",
+  "name": "simple-math-akp111",
+  "version": "1.0.0",
   "description": "A nice package to add numbers",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
