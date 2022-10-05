@@ -19,8 +19,10 @@ export const mod = (x: number, y: number): number => {
 };
 
 export const total = (x: number[]): number => {
-  let sum = 0;
-  for (let i = 0; i < x.length; i++) sum += x[i];
+  let sum: number = 0;
+  for (let i: number = 0; i < x.length; i++) {
+    sum += x[i];
+  }
   return sum;
 };
 
