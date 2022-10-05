@@ -20,7 +20,7 @@ export const mod = (x: number, y: number): number => {
 
 export const total = (x: number[]): number => {
   let sum: number = 0;
-  for (let i of x) {
+  for (const i of x) {
     sum += i;
   }
   return sum;
