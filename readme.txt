@@ -32,3 +32,5 @@ create a src folder and create a file named `index.ts`. Write your code and save
 include `build:tsc` in `scripts` key inside `package.json` file
 
 run `npm ruun build` to build the package
+
+(Source: https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c)
